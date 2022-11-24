@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+
 }
 
 a:hover {
@@ -484,9 +484,7 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
+
 
 .btn-rd {
     border-radius: 40px;
@@ -764,8 +762,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 300px; 
-  height: 300px;
+    width: 270; 
+  height: 270;
 }
 
 .portfolio-row {
