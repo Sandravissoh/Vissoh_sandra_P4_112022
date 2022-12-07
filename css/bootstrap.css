@@ -5222,7 +5222,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-toggle .icon-bar {
-    display: none;
+    display: block;
     width: 22px;
     height: 2px;
     border-radius: 1px
@@ -7050,7 +7050,7 @@ button.list-group-item-danger.active:hover {
 }
 
 button.close {
-    
+
     padding: 0;
     cursor: pointer;
     background: 0 0;
