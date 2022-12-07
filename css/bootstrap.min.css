@@ -4436,7 +4436,7 @@ html {
     outline: 0
     }
     .navbar-toggle .icon-bar {
-    display: block;
+    display: none;
     width: 22px;
     height: 2px;
     border-radius: 1px
