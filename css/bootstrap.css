@@ -195,10 +195,7 @@ input[type=search] {
     -webkit-appearance: textfield
 }
 
-input[type=search]::-webkit-search-cancel-button,
-input[type=search]::-webkit-search-decoration {
-    -webkit-appearance: none
-}
+
 
 fieldset {
     padding: .35em .625em .75em;
@@ -3191,9 +3188,7 @@ textarea.form-control {
     height: auto
 }
 
-input[type=search] {
-    -webkit-appearance: none
-}
+
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     input[type=date].form-control,
@@ -7055,7 +7050,7 @@ button.list-group-item-danger.active:hover {
 }
 
 button.close {
-    -webkit-appearance: none;
+    
     padding: 0;
     cursor: pointer;
     background: 0 0;
